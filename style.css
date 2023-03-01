@@ -4,7 +4,7 @@
   --Grayish-blue: hsl(220, 15%, 55%);
   --Dark-blue: hsl(218, 44%, 22%);
 
-  --font-Outfit: 15px, 'Outfit', sans-serif;
+  --font-Outfit: 'Outfit', sans-serif;
 }
 
 *,
@@ -118,7 +118,9 @@ body {
   font-weight: 400;
 }
 .title{
+  
   color: var(--Dark-blue);
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 700;
+  margin-bottom: 1rem;
 }
